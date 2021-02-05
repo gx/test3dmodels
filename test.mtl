@@ -1,0 +1,78 @@
+newmtl material_47
+       Ka 0 0 0
+       Kd 0 0 0
+       Ks 0 0 0
+       Ns 0
+
+newmtl material_57
+       Ka 0.2 0.2 0.2
+       Kd 0.752941 0.501961 1
+       Ks 0 0 0
+       Ns 0
+
+newmtl material_54
+       Ka 0.2 0.2 0.2
+       Kd 0.752941 0.501961 1
+       Ks 0 0 0
+       Ns 0
+
+newmtl material_52
+       Ka 0.2 0.2 0.2
+       Kd 0.6 0.6 0.6
+       Ks 0 0 0
+       Ns 0
+
+newmtl material_48
+       Ka 0.2 0.2 0.2
+       Kd 0 0 0
+       Ks 0 0 0
+       Ns 0
+
+newmtl material_50
+       Ka 0.2 0.2 0.2
+       Kd 0.5 0.5 0.5
+       Ks 0 0 0
+       Ns 0
+
+newmtl material_53
+       Ka 0.2 0.2 0.2
+       Kd 0.6 0.6 0.6
+       Ks 0 0 0
+       Ns 0
+
+newmtl material_46
+       Ka 0.2 0.2 0.2
+       Kd 0.69 0.44 0.31
+       Ks 0 0 0
+       Ns 0
+
+newmtl material_51
+       Ka 0.2 0.2 0.2
+       Kd 0.8 0.8 0.8
+       Ks 0 0 0
+       Ns 0
+
+newmtl material_45
+       Ka 0.2 0.2 0.2
+       Kd 0.95 0.82 0.51
+       Ks 0 0 0
+       Ns 0
+
+newmtl material_49
+       Ka 0.2 0.2 0.2
+       Kd 1 1 1
+       Ks 0 0 0
+       Ns 0
+
+newmtl material_56
+       Ka 0.2 0.2 0.2
+       Kd 0.752941 0.501961 1
+       Ks 0 0 0
+       Ns 0
+
+newmtl material_55
+       Ka 0.2 0.2 0.2
+       Kd 0.752941 0.501961 1
+       Ks 0 0 0
+       Ns 0
+
